@@ -40,7 +40,7 @@ dependencies:
 #  directory_picker: ^1.0.0
   directory_picker:
     git:
-      url: git://github.com/Exlaza/flutter_directory_picker
+      url: https://github.com/Exlaza/flutter_directory_picker.git
       ref: master
   flutter_launcher_icons: ^0.7.5
 
